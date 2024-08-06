@@ -1,0 +1,6 @@
+In this lesson you will V and N keys
+v or V: use left hand index finger to press 'v'
+N or n: use right hand index finger to press 'n'.
+
+/ : use right hand little finger to '/' below home row.
+? : use shift+'/' key to press ?.

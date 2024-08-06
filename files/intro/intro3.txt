@@ -1,0 +1,3 @@
+In this lesson you will learn R and U keys
+r: use left hand index finger to press 'r' key
+u: use right hand index finger to press 'u' key.

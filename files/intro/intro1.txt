@@ -1,0 +1,9 @@
+a:use left hand little finger to press 'a'
+s:use left hand ring finger to press 's'
+d:use left hand middle finger to press 'd'
+f:use left hand index finger to press 'f'
+
+j:use right hand index finger to press 'j'
+k:use right hand middle finger to press 'k'
+l:use right hand ring finger to press 'l'
+;:use right hand little finger to prees key ';'

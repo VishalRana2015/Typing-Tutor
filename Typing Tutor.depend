@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1543033485 source:c:\users\vishal\onedrive\documents\typing tutor\typing tutor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"function.h"
+	"functions.c"
+	"menu.c"
+	"file.c"
+
+1542965355 c:\users\vishal\onedrive\documents\typing tutor\typing tutor\functions.c
+
+1543033637 c:\users\vishal\onedrive\documents\typing tutor\typing tutor\menu.c
+
+1543035046 c:\users\vishal\onedrive\documents\typing tutor\typing tutor\file.c
+
+1543033635 c:\users\vishal\onedrive\documents\typing tutor\typing tutor\function.h
+

@@ -1,0 +1,7 @@
+Susie likes soda, cocoa, tea, coffee, juice, etc.
+Susie likes cookies, too. It suits Susie to cook
+decorated cocoa cookies for all.
+Clocks tick tic tac. Oscar tries to trick clocks to
+tick faster. Ticks of clocks are still static,
+detects Oscar. It is difficult to force clocks to
+tick faster.
